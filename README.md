@@ -1,20 +1,43 @@
 # Networking Icons
-Icons are provided here from Red Hat Ansible but available for everyone to use and contribute to.
+Networking icons are provided here from Red Hat Ansible but available for everyone to use!
 
 # Table of Contents
 - [Routers](#Routers)
 - [Switches](#switches)
 
 # Routers
-![router_mango_large](router_mango_large.png)
-![router_mango_medium](router_mango_medium.png)
-![router_mango_small](router_mango_small.png)
+
+## Color - Ansible Mango
+![router_mango_large](routers/router_mango_large.png)
+![router_mango_medium](routers/router_mango_medium.png)
+![router_mango_small](routers/router_mango_small.png)
+
+## Color - Ansible Pool
+![router_pool_large](routers/router_pool_large.png)
+![router_pool_medium](routers/router_pool_medium.png)
+![router_pool_small](routers/router_pool_small.png)
+
+## Color - Red Hat Red
+![router_red_large](routers/router_red_large.png)
+![router_red_medium](routers/router_red_medium.png)
+![router_red_small](routers/router_red_small.png)
 
 # Switches
-![switch_mango_large](switch_mango_large.png)
-![switch_mango_medium](switch_mango_medium.png)
-![switch_mango_small](switch_mango_small.png)
 
+## Color - Ansible Mango
+![switch_mango_large](switches/switch_mango_large.png)
+![switch_mango_medium](switches/switch_mango_medium.png)
+![switch_mango_small](switches/switch_mango_small.png)
+
+## Color - Ansible Pool
+![switch_pool_large](switches/switch_pool_large.png)
+![switch_pool_medium](switches/switch_pool_medium.png)
+![switch_pool_small](switches/switch_pool_small.png)
+
+## Color - Red Hat Red
+![switch_red_large](switches/switch_red_large.png)
+![switch_red_medium](switches/switch_red_medium.png)
+![switch_red_small](switches/switch_red_small.png)
  ---
 ![Red Hat Ansible Automation](rh-ansible-automation.png)
 
