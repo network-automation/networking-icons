@@ -46,19 +46,19 @@ Networking icons are provided here from Red Hat Ansible but available for everyo
 # Servers
 
 ## Color - Ansible Mango
-![servers_mango_large](servers/servers_mango_large.png)
-![servers_mango_medium](servers/servers_mango_medium.png)
-![servers_mango_small](servers/servers_mango_small.png)
+![server_rack_mango_large](servers/server_rack_mango_large.png)
+![server_rack_mango_medium](servers/server_rack_mango_medium.png)
+![server_rack_mango_small](servers/server_rack_mango_small.png)
 
 ## Color - Ansible Pool
-![servers_pool_large](servers/servers_pool_large.png)
-![servers_pool_medium](servers/servers_pool_medium.png)
-![servers_pool_small](servers/servers_pool_small.png)
+![server_rack_pool_large](servers/server_rack_pool_large.png)
+![server_rack_pool_medium](servers/server_rack_pool_medium.png)
+![server_rack_pool_small](servers/server_rack_pool_small.png)
 
 ## Color - Red Hat Red
-![servers_red_large](servers/servers_red_large.png)
-![servers_red_medium](servers/servers_red_medium.png)
-![servers_red_small](servers/servers_red_small.png)
+![server_rack_red_large](servers/server_rack_red_large.png)
+![server_rack_red_medium](servers/server_rack_red_medium.png)
+![server_rack_red_small](servers/server_rack_red_small.png)
 
 # Firewall
 
