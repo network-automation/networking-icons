@@ -4,6 +4,10 @@ Networking icons are provided here from Red Hat Ansible but available for everyo
 # Table of Contents
 - [Routers](#Routers)
 - [Switches](#switches)
+- [Servers](#servers)
+- [Firewall](#firewall)
+- [Load Balancer](#load_balancer)
+- [Bridge](#bridge)
 
 # Routers
 
@@ -38,6 +42,75 @@ Networking icons are provided here from Red Hat Ansible but available for everyo
 ![switch_red_large](switches/switch_red_large.png)
 ![switch_red_medium](switches/switch_red_medium.png)
 ![switch_red_small](switches/switch_red_small.png)
+
+# Servers
+
+## Color - Ansible Mango
+![servers_mango_large](servers/servers_mango_large.png)
+![servers_mango_medium](servers/servers_mango_medium.png)
+![servers_mango_small](servers/servers_mango_small.png)
+
+## Color - Ansible Pool
+![servers_pool_large](servers/servers_pool_large.png)
+![servers_pool_medium](servers/servers_pool_medium.png)
+![servers_pool_small](servers/servers_pool_small.png)
+
+## Color - Red Hat Red
+![servers_red_large](servers/servers_red_large.png)
+![servers_red_medium](servers/servers_red_medium.png)
+![servers_red_small](servers/servers_red_small.png)
+
+# Firewall
+
+## Color - Ansible Mango
+![firewall_mango_large](firewall/firewall_mango_large.png)
+![firewall_mango_medium](firewall/firewall_mango_medium.png)
+![firewall_mango_small](firewall/firewall_mango_small.png)
+
+## Color - Ansible Pool
+![firewall_pool_large](firewall/firewall_pool_large.png)
+![firewall_pool_medium](firewall/firewall_pool_medium.png)
+![firewall_pool_small](firewall/firewall_pool_small.png)
+
+## Color - Red Hat Red
+![firewall_red_large](firewall/firewall_red_large.png)
+![firewall_red_medium](firewall/firewall_red_medium.png)
+![firewall_red_small](firewall/firewall_red_small.png)
+
+# Load Balancer
+
+## Color - Ansible Mango
+![load_balancer_mango_large](load_balancer/load_balancer_mango_large.png)
+![load_balancer_mango_medium](load_balancer/load_balancer_mango_medium.png)
+![load_balancer_mango_small](load_balancer/load_balancer_mango_small.png)
+
+## Color - Ansible Pool
+![load_balancer_pool_large](load_balancer/load_balancer_pool_large.png)
+![load_balancer_pool_medium](load_balancer/load_balancer_pool_medium.png)
+![load_balancer_pool_small](load_balancer/load_balancer_pool_small.png)
+
+## Color - Red Hat Red
+![load_balancer_red_large](load_balancer/load_balancer_red_large.png)
+![load_balancer_red_medium](load_balancer/load_balancer_red_medium.png)
+![load_balancer_red_small](load_balancer/load_balancer_red_small.png)
+
+# Bridge
+
+## Color - Ansible Mango
+![bridge_mango_large](bridge/bridge_mango_large.png)
+![bridge_mango_medium](bridge/bridge_mango_medium.png)
+![bridge_mango_small](bridge/bridge_mango_small.png)
+
+## Color - Ansible Pool
+![bridge_pool_large](bridge/bridge_pool_large.png)
+![bridge_pool_medium](bridge/bridge_pool_medium.png)
+![bridge_pool_small](bridge/bridge_pool_small.png)
+
+## Color - Red Hat Red
+![bridge_red_large](bridge/bridge_red_large.png)
+![bridge_red_medium](bridge/bridge_red_medium.png)
+![bridge_red_small](bridge/bridge_red_small.png)
+
  ---
 ![Red Hat Ansible Automation](rh-ansible-automation.png)
 
