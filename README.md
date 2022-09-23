@@ -111,14 +111,21 @@ Networking icons are provided here from Red Hat Ansible but available for everyo
 ![bridge_red_medium](bridge/bridge_red_medium.png)
 ![bridge_red_small](bridge/bridge_red_small.png)
 
+# Cloud
+
+![cloud-black](cloud/cloud-black.png)
+![cloud-red](cloud/cloud-red.png)
+![cloud-white](cloud/cloud-white.png)
+
+# Multi-cloud
+
+![multicloud-black](multi-cloud/multicloud-black.png)
+![multicloud-red](multi-cloud/multicloud-red.png)
+![multicloud-white](multi-cloud/multicloud-white.png)
 
 ---
-![Red Hat Ansible Automation](images/rh-ansible-automation.png)
+![Red Hat Ansible Automation](redhatansiblelogo.svg)
 
-Red Hat® Ansible® Automation consists of  three products:
+Red Hat® Ansible® Automation Platform elevates automation across your organization, expanding your possibilities. It's a flexible, security-focused foundation to build and deploy automation that helps your business accelerate, orchestrate, and innovate.
 
-- [Red Hat® Ansible® Tower](https://www.ansible.com/tower): Built for operationalizing and scaling automation, managing complex deployments and speeding up productivity. Extend the power of Ansible Tower with Workflows and Surveys to streamline jobs and simple tools to share solutions with your team.
-
-- [Red Hat® Ansible® Engine](https://www.ansible.com/ansible-engine): a fully supported product built on the foundational capabilities of the Ansible project. Also provides support for select modules including Infoblox.
-
-- [Red Hat® Ansible® Network Automation](https://www.ansible.com/networking): provides support for select networking modules from Arista (EOS), Cisco (IOS, IOS XR, NX-OS), Juniper (JunOS), Open vSwitch, and VyOS. Includes Ansible Tower, Ansible Engine, and curated content specifically for network use cases.
+Sign up for a [Free Trial on ansible.com](https://www.redhat.com/en/technologies/management/ansible/try-it)
